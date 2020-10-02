@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MobileInventorySystem.ViewModel
 {
-    class AddMobileViewModel
+    public class AddMobileViewModel
     {
     }
 }
